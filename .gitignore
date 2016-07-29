@@ -1,0 +1,8 @@
+## Ignore .idea/ file created by WebStor
+.idea/
+
+## Ignore Node
+node_modules
+
+## Ignore Typings
+typings
